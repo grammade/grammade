@@ -133,7 +133,3 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=grammade&show_icons=true&locale=en&layout=compact"
         alt="grammade" />
 </p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=grammade&show_icons=true&locale=en"
-        alt="grammade" /></p>
